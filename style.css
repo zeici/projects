@@ -1,0 +1,48 @@
+/* General body settings */
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Link styling */
+a {
+    color: #4CAF50; /* Bright green */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header styling */
+h1 {
+    color: #eaeaea;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+/* List styling */
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Bolded text in list */
+b {
+    color: #FFCC00;
+}
+
+/* Code styling */
+code {
+    background-color: #333;
+    color: #ff9800;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
